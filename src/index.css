@@ -1,0 +1,32 @@
+:root {
+  --primary: "#fff";
+  --primary-bg: "#ededed";
+  --secondary-bg: "rgb(113, 181, 249)";
+  --primary-text: "#212121";
+  --secondary-text: "#757575";
+  --status-online: "#109410";
+  --status-offline: "#d71b1b";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
